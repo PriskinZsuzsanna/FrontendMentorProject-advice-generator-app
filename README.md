@@ -9,12 +9,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -29,6 +25,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+![Screenshot](https://user-images.githubusercontent.com/121173949/212567007-927be7d4-894a-4130-a3e2-9d92cf917eab.png)
 
 ### Links
 
