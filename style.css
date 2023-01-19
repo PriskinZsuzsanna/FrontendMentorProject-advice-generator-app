@@ -15,7 +15,7 @@
 
 body {
     height: 100vh;
-    background: var(--dark-grayish-blue);
+    background: var(--dark-blue);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ body {
     max-width: 500px;
     padding: 20px 30px;
     margin-inline: auto;
-    background: var(--grayish-blue);
+    background: var(--dark-grayish-blue);
     border-radius: 10px;
     text-align: center;
     position: relative;
@@ -95,7 +95,7 @@ footer {
     width: 100%;
     text-align: center;
     padding: 10px;
-    background: var(--grayish-blue);
+    background: var(--dark-grayish-blue);
     color: var(--light-cyan);
     font-size: 11px
 }
