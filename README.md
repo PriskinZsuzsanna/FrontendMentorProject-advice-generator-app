@@ -25,7 +25,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-![Screenshot](https://user-images.githubusercontent.com/121173949/212567007-927be7d4-894a-4130-a3e2-9d92cf917eab.png)
+![Screenshot](https://user-images.githubusercontent.com/121173949/213570159-b7ebfb51-a682-4c98-852d-01a20375f1bc.png)
 
 ### Links
 Site: https://priskinzsuzsanna.github.io/FrontendMentorProject-advice-generator-app/
