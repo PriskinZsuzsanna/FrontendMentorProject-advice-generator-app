@@ -76,18 +76,24 @@ body {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    transition: all 1s ease-in-out;
 }
 
 .circle:hover {
     box-shadow: 0 5px 65px var(--neon-green);
 }
 
+.circle.disabled {
+    background: hsla(150, 100%, 66%, 0.259);
+    pointer-events: none;
+    box-shadow: 0 5px 35px hsla(150, 100%, 66%, 0.259);
+    transition: all .5s ease-in-out;
+}
+
 .circle svg {
     pointer-events: none;
     user-select: none;
 }
-
-
 
 footer {
     position: fixed;

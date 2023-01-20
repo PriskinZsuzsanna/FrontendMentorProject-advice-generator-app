@@ -17,6 +17,12 @@ function fetchData () {
         id.innerHTML = dataId;
         adviceText.innerHTML = `
         "${dataAdvice}"
-        `
+        `;
+
+        dice.classList.add("disabled");
+
+        setTimeout(() => {
+            dice.classList.remove("disabled")
+        }, 1500)
     })
 }
